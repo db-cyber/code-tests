@@ -10,12 +10,11 @@ public class FindNextSquareKata
         long value = -1;
         if (Math.Sqrt(num) % 1 == 0)
         {
-            for (var i = num + 1; value != 0; i++)
+            for (var i = num + 1; value == -1; i++)
             {
                 if (Math.Sqrt(i) % 1 == 0)
                 {
                     value = i;
-                    break;
                 };
             }
         }
