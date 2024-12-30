@@ -42,8 +42,5 @@ public class Calculations
 
         return uniqueList;
     }
-
-    public static bool IsSquare(int n) =>
-        Math.Sqrt(n) % 1 == 0;
 }
 
