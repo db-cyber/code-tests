@@ -11,7 +11,7 @@ public class ToCamelCase
     {
         if (!string.IsNullOrEmpty(str))
         {
-            string[] items = str.Split(['_', '-', ' ']);
+            string[] items = str.Split(['_', '-']);
 
             for (var i = 1; i <= items.Length - 1; i++)
             {
