@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\benn-\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\benn-\\Documents\\CodeChallenges\\CodeChallenges\\CodeChallenges.csproj": {}
   },
   "projects": {
-    "C:\\Users\\benn-\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\benn-\\Documents\\CodeChallenges\\CodeChallenges\\CodeChallenges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\benn-\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\benn-\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\benn-\\Documents\\CodeChallenges\\CodeChallenges\\CodeChallenges.csproj",
+        "projectName": "CodeChallenges",
+        "projectPath": "C:\\Users\\benn-\\Documents\\CodeChallenges\\CodeChallenges\\CodeChallenges.csproj",
         "packagesPath": "C:\\Users\\benn-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\benn-\\Documents\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\benn-\\Documents\\CodeChallenges\\CodeChallenges\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benn-\\AppData\\Roaming\\NuGet\\NuGet.Config"
