@@ -4,14 +4,15 @@ public class Calculations
     {
         var reversedString = string.Empty;
 
-        for(var i = word.Length - 1; i >= 0; i--){
+        for (var i = word.Length - 1; i >= 0; i--)
+        {
             reversedString += word[i];
         }
 
         return reversedString;
     }
 
-    public static bool PalindromeCheck(string word) => 
+    public static bool PalindromeCheck(string word) =>
         word == ReverseString(word);
 
     public static List<string> UniqueStringCheck(List<string> items)
@@ -34,7 +35,7 @@ public class Calculations
 
         foreach (var item in countDictionary)
         {
-            if(item.Value == 1)
+            if (item.Value == 1)
             {
                 uniqueList.Add(item.Key);
             }
